@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">USSD Reader</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="turn_on_accessibility_msg">Here tap on "USSD Reader" and then switch it on.</string>
+    <string name="accessibility_service_description">This service records pop ups sent by your mobile operator, and saves them in USSD Reader App. It is absolutely safe to use.</string>
+
+    <string name="navigate_to_settings_msg">Tap enable and go to \'system setting\' and turn on \'USSD Recorder\'</string>
+    <string name="check_talktime_balance">Check Talktime Balance</string>
+    <string name="check_data_balance">Check Data Balance</string>
+    <string name="deduction_list_balance">Balance Deduction List</string>
+    <string name="deduction_list_data">Data Deduction List</string>
+
+    <string name="main">Main</string>
+    <string name="data">Data</string>
+    <string name="updated">Updated</string>
+    <string name="update">Update</string>
+
+    <string name="fetching">Fetching details...</string>
+    <string name="data_not_available">No results found.</string>
+</resources>
